@@ -1,0 +1,60 @@
+div#footer {
+    border-top: 2px solid #e2e2e2;
+    color: #aaa;
+    text-align: center;
+}
+.th-label {
+    text-align: right !important;
+    vertical-align: middle !important;
+}
+.vertical-middle {
+    vertical-align: middle !important;
+}
+
+table.table-header tr th {
+    background-color: #3383DB;
+    color: #FFF;
+    text-align: center;
+    font-size: 1em;
+    font-weight: 300;
+}
+
+table.table-horizon thead {
+    background: #3383DB;
+    color: #FFF;
+}
+table.table-horizon thead tr th {
+    text-align: center;
+    font-size: 1em;
+    font-weight: 300;
+}
+table.table-horizon tbody tr th {
+    text-align: right;
+    font-size: 1em;
+    font-weight: 600;
+    padding-right: 10px;
+    vertical-align: middle;
+}
+.title {
+        font-size : 20px;
+        font-weight : 300;
+}
+.align-right {
+    text-align : right;
+}
+.align-center {
+    text-align : center;
+}
+.align-left {
+    text-align : left;
+}
+table.search, tr, td, th {
+    padding:8px;
+}
+
+.btn-width {
+    width:33%;
+}
+.menu-font-size{
+        font-size:14px;
+    }
